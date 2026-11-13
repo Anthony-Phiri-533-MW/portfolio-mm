@@ -1,6 +1,6 @@
 # Anthony Phiri — Personal Portfolio
 
-A responsive personal portfolio for Anthony Phiri, a Computer Science student and software developer in Malawi. The site introduces Anthony, shares his education and career aspirations, highlights his projects, and showcases web and Python animation work.
+A responsive personal portfolio for Anthony Phiri, a Computer Science student and software developer in Malawi. The site introduces Anthony(myself), shares my education and career aspirations, highlights his projects, and showcases web and Python animation work.
 
 ## Pages
 
@@ -15,19 +15,9 @@ A responsive personal portfolio for Anthony Phiri, a Computer Science student an
 - CSS3
 - Vanilla JavaScript
 
-There is no framework, package manager, or build step. The design uses a cream, burgundy, and green palette, responsive layouts, and reduced-motion-aware animations.
-
 ## Run locally
 
-Open `index.html` in a browser to view the site. For more reliable video playback and local asset loading, serve the project folder over HTTP. For example, if Python is installed, run this from the project directory:
-
-```powershell
-python -m http.server 8000
-```
-
-Then open <http://localhost:8000>.
-
-The site loads DM Sans and Playfair Display from Google Fonts, so an internet connection is needed for those fonts. It falls back to system fonts if they are unavailable.
+Open `index.html` in a browser to view the site. For more reliable video playback and local asset loading, serve the project folder over HTTP. 
 
 ## Project structure
 
