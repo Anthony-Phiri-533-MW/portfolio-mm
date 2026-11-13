@@ -1,12 +1,14 @@
 # Anthony Phiri — Personal Portfolio
 
-A responsive personal portfolio for Anthony Phiri, a Computer Science student and software developer in Malawi. The site introduces Anthony(myself), shares my education and career aspirations, highlights his projects, and showcases web and Python animation work.
+This is my personal portfolio website. I built it to introduce myself, share my background and career goals, show the projects I have worked on, and collect the animation work I have made with Python and CSS.
+
+I am a Computer Science student and software developer in Malawi. The site is built with plain HTML, CSS, and JavaScript so it stays simple to read, maintain, and host.
 
 ## Pages
 
 - **Home** (`index.html`) — Introduction, current learning interests, and personal photos.
 - **About** (`about.html`) — Background, experience, education, skills, career goals, and contact details.
-- **Projects** (`projects.html`) — Selected and additional projects, including a one-sentence problem each project addresses.
+- **Projects** (`projects.html`) — Selected and additional projects with short descriptions and links.
 - **Animations** (`animations.html`) — Python-rendered videos and interactive CSS/JavaScript animation concepts.
 
 ## Built with
@@ -17,7 +19,7 @@ A responsive personal portfolio for Anthony Phiri, a Computer Science student an
 
 ## Run locally
 
-Open `index.html` in a browser to view the site. For more reliable video playback and local asset loading, serve the project folder over HTTP. 
+Open `index.html` in a browser to view the site. For more reliable video playback and local asset loading, serve the project folder over HTTP.
 
 ## Project structure
 
@@ -39,8 +41,10 @@ Open `index.html` in a browser to view the site. For more reliable video playbac
 
 ## Contact
 
+You can reach me at:
+
 - Email: [malawi.anthonyphiri@gmail.com](mailto:malawi.anthonyphiri@gmail.com)
 - GitHub: [Anthony-Phiri-533-MW](https://github.com/Anthony-Phiri-533-MW)
 - LinkedIn: [Anthony Phiri](https://www.linkedin.com/in/anthonyphiri533)
 
-The contact form opens a prefilled email in the visitor's default mail application; it does not send messages to a server.
+The contact form opens a prefilled email in your default mail application; it does not send messages to a server.
